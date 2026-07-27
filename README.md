@@ -77,3 +77,12 @@ If you find our paper and code useful, please cite us:
   year    = {2025},
 }
 ```
+## License
+
+This project is released under dual licenses:
+
+- **Code**: The source code in this repository is licensed under the [MIT License](LICENSE).
+- **Dataset**: The datasets provided in this project are licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+**Note for Dataset Usage:**
+If you use the dataset in your research or project, please ensure you provide appropriate credit as required by the CC BY 4.0 license. You can fulfill this by citing our work (see the Citation section above).
